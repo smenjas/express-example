@@ -5,7 +5,7 @@ This is an example [Express](https://expressjs.com/) app.
 I chose [EJS](https://ejs.co/) for the template engine and
 [Sass](https://sass-lang.com/) for the CSS engine.
 
-## How It Started
+## Express Generator
 [express-generator](https://www.npmjs.com/package/express-generator) made this,
 like so:
 ```bash
@@ -21,8 +21,10 @@ express --view=ejs --css=sass --git express-example
 - [http-errors](https://www.npmjs.com/package/http-errors)
 - [morgan](https://www.npmjs.com/package/morgan)
 - [node-sass-middleware](https://www.npmjs.com/package/node-sass-middleware)
+- [nodemon](https://www.npmjs.com/package/nodemon)
 
 ## References
+- [Node.js](https://nodejs.dev/)
 - [Express](https://expressjs.com/)
 - [EJS: Embedded JavaScript templating](https://ejs.co/)
 - [Sass: Syntactically Awesome Stylesheets](https://sass-lang.com/)
